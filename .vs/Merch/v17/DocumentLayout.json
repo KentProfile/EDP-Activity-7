@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|c:\\users\\sandra\\downloads\\edp\\merch\\merch\\maindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\maindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\dashboards.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\dashboards.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\dashboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\dashboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\add_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\add_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\maindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\maindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\dashboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\dashboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\add_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\add_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\update_acc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\update_acc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\about.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\about.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\about.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\about.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\dashboards.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\dashboards.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\listaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\listaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\merch\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0EB8F163-36C5-466C-A48E-29061BAF5892}|Merch\\Merch.csproj|solutionrelative:merch\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\About.cs",
+              "RelativeDocumentMoniker": "Merch\\About.cs",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\About.cs [Design]",
+              "RelativeToolTip": "Merch\\About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:41:28.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\About.cs",
+              "RelativeDocumentMoniker": "Merch\\About.cs",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\About.cs",
+              "RelativeToolTip": "Merch\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:51:14.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\Product.cs",
+              "RelativeDocumentMoniker": "Merch\\Product.cs",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\Product.cs [Design]",
+              "RelativeToolTip": "Merch\\Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:43:34.758Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashboards.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\dashboards.Designer.cs",
+              "RelativeDocumentMoniker": "Merch\\dashboards.Designer.cs",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\dashboards.Designer.cs",
+              "RelativeToolTip": "Merch\\dashboards.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:21:11.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\Form1.cs",
+              "RelativeDocumentMoniker": "Merch\\Form1.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\EDP\\Merch\\Merch\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Student\\Downloads\\EDP\\Merch\\Merch\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:16:57.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "add_account.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\add_account.cs",
+              "RelativeDocumentMoniker": "Merch\\add_account.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\EDP\\Merch\\Merch\\add_account.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Student\\Downloads\\EDP\\Merch\\Merch\\add_account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:08:46.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainDash.cs",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\MainDash.cs",
+              "RelativeDocumentMoniker": "Merch\\MainDash.cs",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\MainDash.cs",
+              "RelativeToolTip": "Merch\\MainDash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:00:30.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\MainDash.cs",
+              "RelativeDocumentMoniker": "Merch\\MainDash.cs",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\MainDash.cs [Design]",
+              "RelativeToolTip": "Merch\\MainDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:56:00.291Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\dash.cs",
+              "RelativeDocumentMoniker": "Merch\\dash.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\EDP\\Merch\\Merch\\dash.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Student\\Downloads\\EDP\\Merch\\Merch\\dash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:02:54.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dashboards.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\dashboards.cs",
+              "RelativeDocumentMoniker": "Merch\\dashboards.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\EDP\\Merch\\Merch\\dashboards.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Student\\Downloads\\EDP\\Merch\\Merch\\dashboards.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:20:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dashboards.cs",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\dashboards.cs",
+              "RelativeDocumentMoniker": "Merch\\dashboards.cs",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\dashboards.cs",
+              "RelativeToolTip": "Merch\\dashboards.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:57:21.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "add_account.cs",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\add_account.cs",
+              "RelativeDocumentMoniker": "Merch\\add_account.cs",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\add_account.cs",
+              "RelativeToolTip": "Merch\\add_account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:10:08.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\profile.cs",
+              "RelativeDocumentMoniker": "Merch\\profile.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\EDP\\Merch\\Merch\\profile.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Student\\Downloads\\EDP\\Merch\\Merch\\profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:40:56.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "accounts.cs",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\accounts.cs",
+              "RelativeDocumentMoniker": "Merch\\accounts.cs",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\accounts.cs",
+              "RelativeToolTip": "Merch\\accounts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:57:36.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "update_acc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\update_acc.cs",
+              "RelativeDocumentMoniker": "Merch\\update_acc.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\EDP\\Merch\\Merch\\update_acc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Student\\Downloads\\EDP\\Merch\\Merch\\update_acc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:04:02.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "About.resx",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\About.resx",
+              "RelativeDocumentMoniker": "Merch\\About.resx",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\About.resx",
+              "RelativeToolTip": "Merch\\About.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-06T09:26:25.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "About.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\About.Designer.cs",
+              "RelativeDocumentMoniker": "Merch\\About.Designer.cs",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\About.Designer.cs",
+              "RelativeToolTip": "Merch\\About.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:26:22.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dashboards.resx",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\dashboards.resx",
+              "RelativeDocumentMoniker": "Merch\\dashboards.resx",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\dashboards.resx",
+              "RelativeToolTip": "Merch\\dashboards.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-05T02:38:25.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "accounts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\accounts.cs",
+              "RelativeDocumentMoniker": "Merch\\accounts.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\EDP\\Merch\\Merch\\accounts.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Student\\Downloads\\EDP\\Merch\\Merch\\accounts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:52:21.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\ListAccount.cs",
+              "RelativeDocumentMoniker": "Merch\\ListAccount.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\EDP\\Merch\\Merch\\ListAccount.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Student\\Downloads\\EDP\\Merch\\Merch\\ListAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T08:59:18.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\Form1.resx",
+              "RelativeDocumentMoniker": "Merch\\Form1.resx",
+              "ToolTip": "C:\\Users\\SANDRA\\Downloads\\EDP\\Merch\\Merch\\Form1.resx",
+              "RelativeToolTip": "Merch\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-05T02:38:21.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
