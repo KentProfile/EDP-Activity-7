@@ -62,7 +62,6 @@ namespace Merch
 
                 var reader = cmd.ExecuteReader();
 
-                // Check if there's a row returned
                 if (reader.HasRows)
                 {
 
